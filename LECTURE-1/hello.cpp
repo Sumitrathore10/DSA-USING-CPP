@@ -55,25 +55,25 @@
 
 // Relational operators: == - equal to, != - not equal to, > - greater than, < - less than, >= - greater than or equal to, <= - less than or equal to
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main()
-{
-    cout << (5 == 2) << endl; // it will return false(0) because 5 is not equal to 2
+// int main()
+// {
+//     cout << (5 == 2) << endl; // it will return false(0) because 5 is not equal to 2
 
-    cout << (5 != 2) << endl; // it will return true(1) because 5 is not equal to 2. its also use for reverse the result.
+//     cout << (5 != 2) << endl; // it will return true(1) because 5 is not equal to 2. its also use for reverse the result.
 
-    cout << (5 > 2) << endl; // it will return true(1) because 5 is greater than 2
+//     cout << (5 > 2) << endl; // it will return true(1) because 5 is greater than 2
 
-    cout << (5 < 2) << endl; // it will return false(0) because 5 is not less than 2
+//     cout << (5 < 2) << endl; // it will return false(0) because 5 is not less than 2
 
-    cout << (5 >= 2) << endl; // it will return true(1) because 5 is greater than or equal to 2
+//     cout << (5 >= 2) << endl; // it will return true(1) because 5 is greater than or equal to 2
 
-    cout << (5 <= 2) << endl; // it will return false(0) because 5 is not less than or equal to 2
+//     cout << (5 <= 2) << endl; // it will return false(0) because 5 is not less than or equal to 2
 
-    return 0;
-}
+//     return 0;
+// }
 
 // Logical operators: && - and, || - or, ! - not
 
